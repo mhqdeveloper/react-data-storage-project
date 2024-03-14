@@ -1,0 +1,13 @@
+.phone{
+    border: 2px solid skyblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 16px;
+
+}
+.phone-bg {
+    background-color: rgb(66, 0, 0);
+}
+.button{
+    background-color: blueviolet;
+}
